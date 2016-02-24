@@ -1,2 +1,2 @@
-#watchout
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+#asteroids
+Game that uses D3 visualizations to render collisions and user interactivty. 
